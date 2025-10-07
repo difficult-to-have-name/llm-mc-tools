@@ -11,7 +11,7 @@ A collection of Minecraft-related tools developed with the assistance of large l
 
 ## How to Run
 
-Each tool is a standalone Python script. You can run them from the command line. Make sure you have Python3 installed on your system. They don't require any special libraries so far.
+Each tool is a standalone Python script. You can run them from the command line. Make sure you have Python3 installed on your system. Furthermore, you need to install some dependencies listed in `requirements.txt`. Use the command `pip install -r requirements.txt` to install these dependencies.
 
 For example, to run the `log2msg.py` tool, you would use a command like this:
 
