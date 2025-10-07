@@ -11,7 +11,7 @@ For English version, see `README.md` under the same directory.
 
 ## 如何运行
 
-每个工具都是一个独立的 Python 脚本。你可以从命令行运行它们。确保你的系统上安装了 Python3。到目前为止，它们不需要任何特殊的库。
+每个工具都是一个独立的 Python 脚本。你可以从命令行运行它们。确保你的系统上安装了 Python3。此外，还需要根据 `requirements.txt` 安装一些依赖库。使用命令 `pip install -r requirements.txt` 来安装这些依赖。
 
 例如，要运行 `log2msg.py` 工具，你可以使用如下命令：
 
